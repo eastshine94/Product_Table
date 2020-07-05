@@ -1,0 +1,26 @@
+body, div, ul, li, dl, dd, dt, ol, h1, h2, h3, h4, h5, h6, input, fieldset, legend, p, select, table, th, td, tr, textarea, button, form, figure, figcaption {
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration:none;
+}
+body, input, textarea, select, button, table {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+button, input {
+    border: 0;
+}
+
+em, address {
+    font-style: normal
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 13px;
+    font-weight: normal;
+}
