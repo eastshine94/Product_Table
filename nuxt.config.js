@@ -1,9 +1,9 @@
 
 export default {
   mode: 'spa',
-  /*
-  ** Headers of the page
-  */
+  router: {
+    base: '/Product_Table/'
+  },
   head: {
     title: process.env.npm_package_name || '',
     meta: [

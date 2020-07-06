@@ -57,31 +57,33 @@
 위의 프로세스를 준수하며 다음과 같이 웹 페이지를 제작하였습니다.
 
 #### 2-1 필터
-![필터](https://im3.ezgif.com/tmp/ezgif-3-d5d385669c70.gif)
+![필터](https://user-images.githubusercontent.com/41350459/86557211-78235a00-bf90-11ea-81ac-c6ba84d173b6.gif)
 
 - 판매가, 판매원가, 등록 시기를 기준으로 상품을 필터를 할 수 있습니다.
 - 필터가 적용되면 아래에 적용된 필터 목록을 보여줍니다.
 - X를 클릭하여 적용된 필터를 제거할 수 있습니다.
 
 #### 2-2 상품 수량
-![상품수량](https://im3.ezgif.com/tmp/ezgif-3-fda9623dce74.gif)
+![상품수량](https://user-images.githubusercontent.com/41350459/86557195-6e99f200-bf90-11ea-8105-a62a7c61047a.gif)
 
 - 테이블에 나오는 아이템 수를 제어할 수 있습니다.
 - 직접 입력을 선택하여 아이템 수를 사용자가 직접 입력하여 제어할 수 있습니다.
 
 #### 2-3 페이지네이션
-![페이지네이션](https://im3.ezgif.com/tmp/ezgif-3-759526138950.gif)
+![페이지네이션](https://user-images.githubusercontent.com/41350459/86557208-76f22d00-bf90-11ea-9ac9-7075b2f86386.gif)
+
 
 - 현재 페이지를 확인할 수 있고, 특정페이지로 이동할 수 있습니다.
 - 이전, 다음, 처음, 마지막 페이지로 이동할 수 있습니다.
 
 #### 2-4 테이블
-![테이블](https://im3.ezgif.com/tmp/ezgif-3-23ded3f2ec4d.gif)
+![테이블](https://user-images.githubusercontent.com/41350459/86557205-75c10000-bf90-11ea-8505-fbad80d2c761.gif)
 
 - 테이블 헤더를 클릭하여 정렬된 결과를 얻을 수 있습니다.
 - 테이블 헤더의 화살표 아이콘을 통해 어떤 기준으로 오름차순, 내림차순 정렬되어 있는지 확인할 수 있습니다.
 
 #### 2-5 차트
-![차트](https://im3.ezgif.com/tmp/ezgif-3-8359bfd09135.gif)
+![차트](https://user-images.githubusercontent.com/41350459/86557204-73f73c80-bf90-11ea-8ec2-2f6a6c3afd2c.gif)
+
 
 - 차트 버튼을 클릭하여 검색된 상품의 월별 상품 등록 가격을 box plot으로 확인 할 수 있습니다.

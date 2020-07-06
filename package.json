@@ -9,6 +9,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "dependencies": {
@@ -23,8 +24,10 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.2.0",
     "eslint-plugin-nuxt": ">=1.0.0",
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1",
     "nuxt-material-design-icons": "^1.0.4",
+    "push-dir": "^0.4.1",
     "sass-loader": "^8.0.2",
     "tui-chart": "^3.11.2",
     "vue-property-decorator": "^8.4.2",
